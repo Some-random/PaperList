@@ -8,6 +8,7 @@
 ## Analyze/Optimize reflection
 * [Text2Reward](https://www.semanticscholar.org/reader/c52b30a60fda5f23cc0d2241c4e127f5191bbb2d): transforms feedback into code to minimize feedback ambiguity
 * [ExpeL: LLM Agents Are Experiential Learners](https://www.semanticscholar.org/reader/5e4597eb21a393b23e473cf66cb5ae8b27cab03e): utilizes inter-task feedback from both successes and failures to enhance model learning.
+* [ALIGNING LANGUAGE MODELS WITH JUDGMENTS](https://arxiv.org/pdf/2312.14591.pdf): create contrasting samples with correct/incorrect prediction and feedback to train LLM toget better alignment
 
 
 ## Agent framework
